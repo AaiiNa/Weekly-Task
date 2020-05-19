@@ -1,3 +1,3 @@
 # weekly-task
 
-https://github.com/AaiiNa/weekly-task.git
+https://aaiina.github.io/weekly-task/
